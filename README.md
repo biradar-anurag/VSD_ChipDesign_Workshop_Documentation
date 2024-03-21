@@ -7,11 +7,9 @@ This is my summary for the VSD Workshop on Chip designing using Google Skywater 
 This program/workshop was about giving interactive tutorial of Advance Physical Design Using Openlane SKY130.
 <h2>Day_1: Inception of Open Source EDA, OpenLANE and SKY130 PDK</h2>
 <h2>How to talk to computers?</h2>
-<h3>Introduction to QFN-48 Package, Chip, Pads, Core, Die and IPs</h3>
 
 <details>
-<summary>Want to ruin the surprise?</summary>
-<br>
+<summary><h3>Introduction to QFN-48 Package, Chip, Pads, Core, Die and IPs</h3></summary>
 Well, you asked for it!
 </details>
 
