@@ -8,7 +8,8 @@ This program/workshop was about giving interactive tutorial of Advance Physical 
 <h2>Day_1: Inception of Open Source EDA, OpenLANE and SKY130 PDK</h2>
 <h2>How to talk to computers?</h2>
 
-<details open><summary><h3>Introduction to QFN-48 Package, Chip, Pads, Core, Die and IPs</h3></summary>
+<details><summary><h3>Introduction to QFN-48 Package, Chip, Pads, Core, Die and IPs</h3></summary>
+<br>
 Well, you asked for it!
 </details>
 
