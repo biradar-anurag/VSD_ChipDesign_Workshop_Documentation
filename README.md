@@ -11,6 +11,5 @@ This workshop was about giving tutorial of Advance Physical Design using Openlan
 <br>
 Arduino 
 </details>
-
 OpenLANE is an automated tool chain for RTL to GDSII flow. 
 It includes various tools like Yosys, OpenSTA, OpenROAD, Magic, Netgen and other such Custom Scripts for designing and optimization.
