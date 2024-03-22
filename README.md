@@ -9,7 +9,18 @@ This workshop was about giving tutorial of Advance Physical Design using Openlan
 <h4>How to talk to computers?</h4>
 <details><summary><b>Introduction to QFN-48 Package, Chip, Pads, Core, Die and IPs</b></summary>
 <br>
-Arduino 
+Arduino Leonardo is a common example of electronics board. It is based on ATmega32u4 chip, and for which we are intrested about. 
+<br>
+Basic fundamental terminologies:
+<br>
+<b>Package:</b>
+It is a housing in which ICs are placed. Ex: QFN48 (i.e., Quad Flat No-Lead Package with 48 leads) is one of kind of package in market. 
+<br>
+<b>Wire bonds:</b>
+It is an electrical interconnection between pins and chip. 
+<br>
+<b>Pads:</b>
+hi
 </details>
 OpenLANE is an automated tool chain for RTL to GDSII flow. 
 It includes various tools like Yosys, OpenSTA, OpenROAD, Magic, Netgen and other such Custom Scripts for designing and optimization.
