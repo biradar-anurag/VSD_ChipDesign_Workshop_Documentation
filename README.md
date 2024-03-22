@@ -76,8 +76,10 @@ Major components of system software are:
 <br><br>
 1. OS (Operating System) <br>
 It handles IO operations, allocates memory, etc. Converts application program into the small C, C++ or Java language programs. 
+<br><br>
 2. Compiler <br>
 Now these small C, C++ programs are converted into the instructions. Syntax of these instructions vary depending on the type of hardware it is. Ex: Intel86, ARM, MIPS, RISC-V.
+<br><br>
 3. Assembler <br>
 Now these instructions are taken by Assembler and converts it into its respective binary number. Also called as machine language program. 
 <br><br>
