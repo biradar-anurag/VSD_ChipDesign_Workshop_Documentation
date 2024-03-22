@@ -14,10 +14,12 @@ Arduino Leonardo is a common example of electronics board. It is based on ATmega
 Basic fundamental terminologies:
 <br>
 <b>Package:</b>
-It is a housing in which ICs are placed. Ex: QFN48 (i.e., Quad Flat No-Lead Package with 48 leads) is one of kind of package in market.   
+It is a housing in which ICs are placed. Ex: QFN48 (i.e., Quad Flat No-Lead Package with 48 leads) is one of kind of package in market.
+  
 <br>
 <b>Wire bonds:</b>
 It is an electrical interconnection between pins and chip.  
+
 <br>
 <b>Pads:</b>
 hi
