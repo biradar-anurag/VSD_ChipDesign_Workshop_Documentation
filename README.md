@@ -21,7 +21,7 @@ It is a housing in which ICs are placed. Ex: QFN48 (i.e., Quad Flat No-Lead Pack
 <br><br>
 <b>Wire bonds:</b>
 It is an electrical interconnection between pins and chip.  
-<br><br>
+<br>
 <b>Pads:</b>
 Metal connections on IC package which provide electrical connection between chip and PCB.
 <br><br>
