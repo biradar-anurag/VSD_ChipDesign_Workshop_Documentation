@@ -11,7 +11,8 @@ This workshop was about giving tutorial of Advance Physical Design using Openlan
 <br>
 Arduino Leonardo is a common example of electronics board. It is based on ATmega32u4 chip, and for which we are intrested about. 
 <br><br>
-![alt text](Images/Arduino%20Leonardo%20Board.png)
+![](Images/Arduino%20Leonardo%20Board.png)
+<br>
 Basic fundamental terminologies:
 <br><br>
 <b>Package:</b>
