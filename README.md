@@ -12,13 +12,13 @@ This workshop was about giving tutorial of Advance Physical Design using Openlan
 Arduino Leonardo is a common example of electronics board. It is based on ATmega32u4 chip, and for which we are intrested about. 
 <br><br>
 Basic fundamental terminologies:
-<br>
+<br><br>
 <b>Package:</b>
 It is a housing in which ICs are placed. Ex: QFN48 (i.e., Quad Flat No-Lead Package with 48 leads) is one of kind of package in market.
-<br>
+<br><br>
 <b>Wire bonds:</b>
 It is an electrical interconnection between pins and chip.  
-<br>
+<br><br>
 <b>Pads:</b>
 hi
 </details>
