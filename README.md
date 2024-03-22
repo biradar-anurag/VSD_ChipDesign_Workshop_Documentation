@@ -66,8 +66,26 @@ To implement this RISC-V specifications in RTL we need HDL. And then after it fo
 
 <details><summary><b>From Software Applications to Hardware</b></summary>
 <br>
+How apps run on hardware? Curious about how all does this happen? Well to some extent it depends on ISA (Instruction Set Architecture). So, the following flow is followed for every application to run on hardware:
+<br><br>
+1. Application enters into a block called system software.
+<br><br>
+2. In turn the system software converts this application program into the binary language.
+<br><br>
+Major components of system software are: 
+<br><br>
+1. OS (Operating System) <br>
+It handles IO operations, allocates memory, etc. Converts application program into the small C, C++ or Java language programs. 
+2. Compiler <br>
+Now these small C, C++ programs are converted into the instructions. Syntax of these instructions vary depending on the type of hardware it is. Ex: Intel86, ARM, MIPS, RISC-V.
+3. Assembler <br>
+Now these instructions are taken by Assembler and converts it into its respective binary number. Also called as machine language program. 
+<br><br>
+Now this binary numbers are fed to the hardware; hardware understands it, performs respective function and generates the output. 
+Ex: Stopwatch App.
 
 
 </details>
+
 OpenLANE is an automated tool chain for RTL to GDSII flow. 
 It includes various tools like Yosys, OpenSTA, OpenROAD, Magic, Netgen and other such Custom Scripts for designing and optimization.
