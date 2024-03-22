@@ -13,13 +13,13 @@ Arduino Leonardo is a common example of electronics board. It is based on ATmega
 <br><br>
 Basic fundamental terminologies:
 <br><br>
-<b>Package:</b>
+<b>*Package:</b>
 It is a housing in which ICs are placed. Ex: QFN48 (i.e., Quad Flat No-Lead Package with 48 leads) is one of kind of package in market.
 <br><br>
-<b>Wire bonds:</b>
+<b>*Wire bonds:</b>
 It is an electrical interconnection between pins and chip.  
 <br><br>
-<b>Pads:</b>
+<b>*Pads:</b>
 hi
 </details>
 OpenLANE is an automated tool chain for RTL to GDSII flow. 
