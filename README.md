@@ -44,9 +44,29 @@ It is pieces of predesigned logic blocks which can be used without need of desig
 
 <details><summary><b>Introduction to RISC-V</b></summary>
 <br>
-
+If a C language program needs to be run on a hardware/chip which has a certain layout then there should be some flow which passes information from C language to the hardware.
+<br><br>
+Following flow is followed:
+<br><br>
+1. First, the C language program is compiled to its Assembly language program.
+<br><br>
+2. Then this Assembly loanguage program is converted to Machine language program (Binary language program i.e., 1's & 0's). 
+<br><br>
+3. Now this binary language program is understood by the hardware in terms of Logic 1 and Logic 0.
+<br><br>
+4. And we get the required output.
+<br><br>
+There is need of another interface to be present between RISC-V architecture and Layout. It is nothing but the Hardware Description Language (HDL).
+To implement this RISC-V specifications in RTL we need HDL. And then after it forms RTL to GDSII flow.
+<br><br>
 
 ![](Images/RISC-V-architecture-to-Layout.png)
+
+</details>
+
+<details><summary><b>From Software Applications to Hardware</b></summary>
+<br>
+
 
 </details>
 OpenLANE is an automated tool chain for RTL to GDSII flow. 
