@@ -36,8 +36,17 @@ Foundry IPs (Intellectual Property) are predesigned blocks which can be directly
 <br><br>
 <b>Macros:</b>
 It is pieces of predesigned logic blocks which can be used without need of designing them from start. 
-<br><br>
+<br>
 
+![](Images/Macro&IP.png)
+
+</details>
+
+<details><summary><b>Introduction to RISC-V</b></summary>
+<br>
+
+
+![](Images/RISC-V-architecture-to-Layout.png)
 
 </details>
 OpenLANE is an automated tool chain for RTL to GDSII flow. 
